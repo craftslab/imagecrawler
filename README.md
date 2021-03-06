@@ -10,7 +10,7 @@
 
 ## Introduction
 
-*imagecrawler* is a image crawler written in Go.
+*imagecrawler* is an image crawler written in Go.
 
 
 
