@@ -1,7 +1,6 @@
 # imagecrawler
 
 [![Actions Status](https://github.com/craftslab/imagecrawler/workflows/CI/badge.svg?branch=master&event=push)](https://github.com/craftslab/imagecrawler/actions?query=workflow%3ACI)
-[![Docker](https://img.shields.io/docker/pulls/craftslab/imagecrawler)](https://hub.docker.com/r/craftslab/imagecrawler)
 [![Go Report Card](https://goreportcard.com/badge/github.com/craftslab/imagecrawler)](https://goreportcard.com/report/github.com/craftslab/imagecrawler)
 [![License](https://img.shields.io/github/license/craftslab/imagecrawler.svg?color=brightgreen)](https://github.com/craftslab/imagecrawler/blob/master/LICENSE)
 [![Tag](https://img.shields.io/github/tag/craftslab/imagecrawler.svg?color=brightgreen)](https://github.com/craftslab/imagecrawler/tags)
